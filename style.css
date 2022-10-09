@@ -12,3 +12,9 @@
 .item:hover {
   background-color: #f5f5f5;
 }
+
+#call{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
